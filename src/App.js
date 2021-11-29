@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import Recaptcha from "react-recaptcha";
-import logo from "./logo.svg";
+// import logo from "./logo.svg";
+import logo from "./yash-logo-new.svg";
 import "./App.css";
 
 class App extends Component {
